@@ -20,7 +20,7 @@ Alternativley click issues at the top of the page and then select new issue on t
 <h1 align="center">Hi 👋, I'm Shannel Philp!</h1>
 <h3 align="center">A passionate Full-Stack developer from Houston.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Philp&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
+<p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQEZQMNRCgA9xw/profile-displayphoto-shrink_400_400/0?e=1611187200&v=beta&t=0uzUuZ6Je4zlY3WflXcpa7rWfmtosB8Xfm-cMqlhEg4t" alt="S-Philp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="S-Philp" alt="S-Philp" /></a> </p>
 
