@@ -22,8 +22,6 @@ Alternativley click issues at the top of the page and then select new issue on t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Philp&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="S-Philp" alt="S-Philp" /></a> </p>
-
 - 🔭 I’m currently working on ["project name"](url link)
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
