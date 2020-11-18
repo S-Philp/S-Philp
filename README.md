@@ -46,7 +46,6 @@ Alternativley click issues at the top of the page and then select new issue on t
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/dev. to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev. to username" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shannel-philp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/edit/14592805" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow user id" height="30" width="40" /></a>
 <a href="https://fb.com/facebook username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook username" height="30" width="40" /></a>
