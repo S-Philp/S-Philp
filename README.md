@@ -49,7 +49,7 @@ Alternativley click issues at the top of the page and then select new issue on t
 <a href="https://codepen.io/codepen username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen username" height="30" width="40" /></a>
 <a href="https://dev.to/dev. to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev. to username" height="30" width="40" /></a>
 <a href="https://twitter.com/nosudo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nosudo_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shannel-philp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow user id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow user id" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandbox username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox username" height="30" width="40" /></a>
 <a href="https://fb.com/facebook username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook username" height="30" width="40" /></a>
