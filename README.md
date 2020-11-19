@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80" height="200px" width="100%" border-radius="15px"/>
+<img src="https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80" height="200px" width="100%" style="border-radius:50%"/>
 <h1 align="center">Hi 👋, I'm Shannel Philp!</h1>
 <h3 align="center">A passionate Full-Stack developer from Houston.</h3>
 
