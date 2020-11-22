@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80" width="100%" height="300px"/>
 <h1 align="center">Hi 👋, I'm Shannel Philp!</h1>
-<h3 align="center">A passionate Full-Stack developer from Houston.</h3>
+<h3 align="center">A determined full-stack developer from Houston.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Philp&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
 
