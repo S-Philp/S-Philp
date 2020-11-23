@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Philp&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
 
-- 🔭 I’m currently working on ["project name"](url link)
+- 🔭 I’m currently working on "My Portfolio" at https://s-philp.github.io/Shannel.philp/
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [Link TO Portfolio](url link)
+- 👨‍💻 All of my projects are available at https://s-philp.github.io/Shannel.philp/
 
 - 💬 Ask me about **"HTML, CSS"**
 
 - 📫 How to reach me **email**
 
-- 📄 Know about my experiences [Link TO Resume](Link TO Resume)
+- 📄 Know about my experiences and view my resume at https://s-philp.github.io/Shannel.philp/
 
 - ⚡ Fun fact **List some fun facts about yourself!**
 
