@@ -10,13 +10,12 @@
 
 - 👨‍💻 All of my projects are available at https://s-philp.github.io/Shannel.philp/
 
-- 💬 Ask me about **"HTML, CSS"**
+- 💬 Ask me about **"HTML, CSS, Javascript"**
 
-- 📫 How to reach me **email**
+- 📫 How to reach me shannel.philp@yahoo.com
 
 - 📄 Know about my experiences and view my resume at https://s-philp.github.io/Shannel.philp/
 
-- ⚡ Fun fact **List some fun facts about yourself!**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
