@@ -29,3 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Philp&layout=compact" alt="S-Philp" /></p>
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=S-Philp&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
