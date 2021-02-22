@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on "My Portfolio" at https://s-philp.github.io/Shannel.philp/
 
-- 🌱 I’m currently learning: **UI/UX Design and React, Redux**
+- 🌱 I’m currently learning: **UI/UX Design, React and Redux**
 
 - 👨‍💻 All of my projects are available at https://s-philp.github.io/Shannel.philp/
 
