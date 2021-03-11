@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Philp&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
 
-- 🔭 I’m currently working on "My Portfolio" at https://s-philp.github.io/Shannel.philp/
+- 🔭 My most recent project was for a local business here in Houston, TX, Silverthread Designs. A demo is located here: https://www.youtube.com/watch?v=ZD8gCwgMNpI and the github repository is here:  https://github.com/S-Philp/Silverthread-Designs
 
 - 🌱 I’m currently learning: **UI/UX Design, Figma, React and Redux**
 
